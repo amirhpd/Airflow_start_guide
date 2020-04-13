@@ -23,5 +23,3 @@ Starts the UI on the browser on http://0.0.0.0:8080 .
 ```.../Airflow$ airflow scheduler ``` <br />
 Refresh the UI. New DAG with name *hello_world* appears.
 8. Turn on the *hello_world* DAG. Check tree view and the text file. <br />
-Codes until this stage are [here](dd529c4ad3c872f3885bd539f948f41f5be5d01e
-)
